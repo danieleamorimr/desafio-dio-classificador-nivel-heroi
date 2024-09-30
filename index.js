@@ -1,5 +1,5 @@
 let nomeHeroi = "Enzo";
-let experienciaXP = 1;
+let experienciaXP = 5500;
 
 
 if (experienciaXP <= 1000) {
@@ -27,7 +27,7 @@ console.log("O herói de nome: " + nomeHeroi + " , está no nivel: Ouro");
     console.log("O herói de nome:" + nomeHeroi + " , está no nivel: Radiante");
 
 }else {
-    console.log("Você digitou uma opção não válida");
+    console.log("Você digitou uma opção inválida");
 }
 
 
